@@ -6,6 +6,8 @@
    - [Soft Skills](#soft-skills)
    - [Tecnologias](#tecnologias)
    - [Propósito](#propósito)
+   - [Redes Sociais](#redes-sociais)
+    
 
    </p>
 
