@@ -1,5 +1,14 @@
 <h1>Gian Cristian Brykczynski	:bearded_person:</h1>
 
+  <p>
+   
+   - [Sobre](#sobre)
+   - [Soft Skills](#soft-skills)
+   - [Tecnologias](#tecnologias)
+   - [Propósito](#propósito)
+
+   </p>
+
 <h2>Sobre</h2>
 
 -:man_student: Bacharel em administração de empresas com ênfase na área industrial.
@@ -32,7 +41,7 @@
 -Atualmente desenvolvendo em **Dart** e **Flutter**.
 
 
-<h2>Propósito na área</h2>
+<h2>Propósito</h2>
 
 <p>Melhorar a vida das pessoas e impactar de forma positiva proporcionando inúmeros benefícios a elas, mapear as dores e buscar soluções inteligentes e escaláveis através de programação, entregando dessa forma aplicações cross platform  incríveis com alta usabilidade e funcionalidade. 
 </P>
@@ -40,4 +49,3 @@
 <h2>Redes Sociais</h2>
 
 :e-mail: gianbrykczynski@gmail.com
-
