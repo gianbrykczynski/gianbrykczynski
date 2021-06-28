@@ -5,7 +5,7 @@
    - [Sobre](#sobre)
    - [Soft Skills](#soft-skills)
    - [Tecnologias](#tecnologias)
-   - [Propósito](#propósito)
+   - [Propósito na área](#propósito-na-área)
    - [Redes Sociais](#redes-sociais)
     
 
@@ -43,7 +43,7 @@
 -Atualmente desenvolvendo em **Dart** e **Flutter**.
 
 
-<h2>Propósito</h2>
+<h2>Propósito na área</h2>
 
 <p>Melhorar a vida das pessoas e impactar de forma positiva proporcionando inúmeros benefícios a elas, mapear as dores e buscar soluções inteligentes e escaláveis através de programação, entregando dessa forma aplicações cross platform  incríveis com alta usabilidade e funcionalidade. 
 </P>
