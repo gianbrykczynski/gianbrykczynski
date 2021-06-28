@@ -50,4 +50,8 @@
 
 <h2>Redes Sociais</h2>
 
-:e-mail: gianbrykczynski@gmail.com
+Inst@ : https://instagram.com/cristianbrykczynski?utm_medium=copy_link
+
+Linkedin : https://www.linkedin.com/in/gianbrykczynski/
+
+e-mail : gianbrykczynski@gmail.com
