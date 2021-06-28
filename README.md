@@ -13,17 +13,15 @@
 
 <h2>Soft Skills</h2>
 
-Boa Comunicação.
+:one: Boa Comunicação.
 
-Adaptação às adversidades.
+:two: Adaptação às adversidades.
 
-Capacidade de pensamento analitico
+:three: Capacidade de pensamento analitico
 
-Maturidade para a tomada de decisão.
+:four: Maturidade para a tomada de decisão.
 
-Iniciativa e proatividade para a liderança. 
-
-Propósito na área 
+:five: Iniciativa e proatividade para a liderança. 
 
 <h2>Tecnologias</h2>
 
